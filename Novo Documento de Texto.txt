@@ -1,0 +1,14 @@
+interfaces vai tratar de estruturas no meu projeto :
+
+typer vai me dar acesso ao objetor fazendo com que o mesmo sejam fundidos>
+
+pegar elemento do imput no  script requer algumas deficiçoe de oque é o elemento que esta atrelado no imput.
+eX:   const imput = getElementById(' input') as HTML.InputElement;
+
+aqui estamos tratando o elemento.
+
+OQUE SAO GENERIC TYPES:
+
+PADROES QUE PODEM RECEBER QUALQUER  COISA, COMO PARAMENTRO
+DESDE QUE EU INSIRA UM DIAMANTE<T> E PASSO O VALOR ANY PARA O MEU PARAMENTRO DE FUNÇÃO.
+
